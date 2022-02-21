@@ -8,6 +8,7 @@ This program will allow the TEC to be used as a CLOCK. The display is used as th
 
 ## Iterate
  - Atomic clock, eg Rubidium Atomic Clock
+ - Poor mans atomic clock
  - Radio sync clock
  - GPS sync clock
  - 
