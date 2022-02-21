@@ -5,6 +5,9 @@ This program will allow the TEC to be used as a CLOCK. The display is used as th
 
 ## Ref
 - https://www.instructables.com/Make-an-Atom-Synchronised-Clock-from-a-1950s-Slav/
+- https://hackaday.com/2019/09/25/100-year-old-atomic-clock/
+
+
 
 ## Iterate
  - Atomic clock
