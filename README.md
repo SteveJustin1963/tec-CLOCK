@@ -4,10 +4,14 @@ This program will allow the TEC to be used as a CLOCK. The display is used as th
 
 
 ## Ref
-- 
+- https://www.instructables.com/Make-an-Atom-Synchronised-Clock-from-a-1950s-Slav/
 
 ## Iterate
- - Atomic clock, eg Rubidium Atomic Clock
+ - Atomic clock
+ - Rubidium
+ - Cesium-133   
+ - Sapphire
+ - Quartz
  - Poor mans atomic clock
  - Radio sync clock
  - GPS sync clock
