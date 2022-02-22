@@ -15,7 +15,7 @@ Be sure not to get COPD, chrono-obsessive-personality-disorder.
 
 
 ## Iterate
- - Sundial and shadows
+ - Sundial and Shadow-dial
  - Waterclock, Clepsydra 
  - Planet crossing
  - Astrolabes
@@ -38,5 +38,6 @@ Be sure not to get COPD, chrono-obsessive-personality-disorder.
  - Radio sync clock, DCF77 
  - GPS sync clock
  - NTP server
+ - https://kidadl.com/articles/time-jokes-and-puns-that-wont-waste-yours
  - https://github.com/SteveJustin1963/tec-Taxichronos
  
