@@ -38,6 +38,7 @@ Be sure not to get COPD, chrono-obsessive-personality-disorder.
  - Radio sync clock, DCF77 
  - GPS sync clock
  - NTP server
+ - PPL Quartz
  - https://kidadl.com/articles/time-jokes-and-puns-that-wont-waste-yours
  - https://github.com/SteveJustin1963/tec-Taxichronos
  
