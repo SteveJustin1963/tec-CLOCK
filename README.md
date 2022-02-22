@@ -5,7 +5,7 @@ Horology
 This program will allow the TEC to be used as a CLOCK. The display is used as the readout and the time can be set, reset, countdown, countup, death clock, etc.
 Be sure not to get COPD, chrono-obsessive-personality-disorder.
 
-![](https://github.com/SteveJustin1963/tec-CLOCK/blob/master/pics/Seiko_35A.jpg) ![](https://github.com/SteveJustin1963/tec-CLOCK/blob/master/pics/Accutron.webp)
+
 
 ## Ref
 - https://www.instructables.com/Make-an-Atom-Synchronised-Clock-from-a-1950s-Slav/
