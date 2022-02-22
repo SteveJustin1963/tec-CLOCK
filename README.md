@@ -19,7 +19,7 @@ Be sure not to get COPD, chrono-obsessive-personality-disorder.
  - Quartz
  - Ammonia
  - Poor mans atomic clock
- - Radio sync clock
+ - Radio sync clock, DCF77 
  - GPS sync clock
  - NTP server
  -  
