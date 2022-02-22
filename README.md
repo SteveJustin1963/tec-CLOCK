@@ -21,7 +21,7 @@ Be sure not to get COPD, chrono-obsessive-personality-disorder.
  - Poor mans atomic clock
  - Radio sync clock
  - GPS sync clock
- - 
+ - NTP server
  -  
  -    
  -   
