@@ -1,9 +1,11 @@
 # tec-CLOCK
 
+Horology
+
 This program will allow the TEC to be used as a CLOCK. The display is used as the readout and the time can be set, reset, countdown, countup, death clock, etc.
 Be sure not to get COPD, chrono-obsessive-personality-disorder.
 
-![]()
+![]() ![]()
 
 ## Ref
 - https://www.instructables.com/Make-an-Atom-Synchronised-Clock-from-a-1950s-Slav/
@@ -13,11 +15,17 @@ Be sure not to get COPD, chrono-obsessive-personality-disorder.
 
 
 ## Iterate
- - Sundial
+ - Sundial and shadows
+ - Waterclock, Clepsydra 
  - Planet crossing
+ - Astrolabes
+ - Candle clocks
  - Pendulum
  - Hourglass
- - Windup
+ - Verge and foliot
+ - Weights and Windup 
+ - Electric
+ - Watch
  - Atomic clock
  - Rubidium
  - Cesium-133   
