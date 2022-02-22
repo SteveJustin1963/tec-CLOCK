@@ -12,16 +12,21 @@ Be sure not to get COPD, chrono-obsessive-personality-disorder.
 
 
 ## Iterate
+ - Sundial
+ - Planet crossing
+ - Pendulum
+ - Windup
  - Atomic clock
  - Rubidium
  - Cesium-133   
  - Sapphire
  - Quartz
  - Ammonia
+ - Optical
+ - Laser
  - Poor mans atomic clock
  - Radio sync clock, DCF77 
  - GPS sync clock
  - NTP server
- -  
- -    
- -   
+ - https://github.com/SteveJustin1963/tec-Taxichronos
+ 
