@@ -24,7 +24,7 @@ Be sure not to get COPD, chrono-obsessive-personality-disorder.
  - Hourglass
  - Verge and foliot
  - Weights and Windup 
- - Electric
+ - Electric motor, Piezoelectricity 
  - Watch
  - Atomic clock
  - Rubidium
