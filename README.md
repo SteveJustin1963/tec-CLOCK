@@ -11,7 +11,7 @@ Be sure not to get chrono-obsessive-personality-disorder COPD.
 ## Iterate
 - Sundial and Shadow-dial, https://www.shadowspro.com/en/index.html
 - Waterclock / Clepsydra, https://en.wikipedia.org/wiki/Water_clock
-- Planet crossing
+- Planet crossing, https://en.wikipedia.org/wiki/Astronomical_clock
 - Astrolabe, https://en.wikipedia.org/wiki/Astrolabe
 - Candle clocks, https://en.wikipedia.org/wiki/Candle_clock
 - Pendulum, https://en.wikipedia.org/wiki/Pendulum_(mechanics)
