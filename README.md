@@ -1,17 +1,11 @@
 # tec-CLOCK
 
-Horology
+### Horology
 
 This program will allow the TEC to be used as a CLOCK. The display is used as the readout and the time can be set, reset, countdown, countup, death clock, etc.
 Be sure not to get chrono-obsessive-personality-disorder COPD.
 
 ![](https://github.com/SteveJustin1963/tec-CLOCK/blob/master/pics/111.png)
-
-## Ref
-- https://www.instructables.com/Make-an-Atom-Synchronised-Clock-from-a-1950s-Slav/
-- https://hackaday.com/2019/09/25/100-year-old-atomic-clock/
-- https://ethw.org/Milestones:First_Atomic_Clock,_1948
-
 
 
 ## Iterate
@@ -42,3 +36,10 @@ Be sure not to get chrono-obsessive-personality-disorder COPD.
  - https://kidadl.com/articles/time-jokes-and-puns-that-wont-waste-yours
  - https://github.com/SteveJustin1963/tec-Taxichronos
  
+## Ref
+- https://www.instructables.com/Make-an-Atom-Synchronised-Clock-from-a-1950s-Slav/
+- https://hackaday.com/2019/09/25/100-year-old-atomic-clock/
+- https://ethw.org/Milestones:First_Atomic_Clock,_1948
+
+
+
